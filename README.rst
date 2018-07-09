@@ -8,6 +8,6 @@ Lua language.
 
 To start we recommend the following documents:
 
-- `Lide Installation<https://lide-framework.readthedocs.io/en/0.1/welcome.html#installation>`
-- `Objects and Classes on Lua<https://lide-framework.readthedocs.io/en/0.1/oop-intro.html>`
-- `Lide Classes Reference<https://lide-framework.readthedocs.io/en/0.1/modules/lide.class.html>`
+- `Lide Installation <https://lide-framework.readthedocs.io/en/0.1/welcome.html#installation>`_
+- `Objects and Classes on Lua <https://lide-framework.readthedocs.io/en/0.1/oop-intro.html>`_
+- `Lide Classes Reference <https://lide-framework.readthedocs.io/en/0.1/modules/lide.class.html>`_
