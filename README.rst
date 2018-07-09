@@ -1,13 +1,13 @@
 Lide Framework Documentation
 ============================
 
-Aqui podrá encontrar los documentos relacionados con las herramientas
-y el framework Lide para crear aplicaciones multiplataforma desde el 
-lenguaje Lua.
+Here you can find the documents related to the tools
+and the Lide framework to create cross-platform applications from the
+Lua language.
 
 
-Para empezar le recomendamos los siguientes documentos:
+To start we recommend the following documents:
 
-- `Lide Installation <https://lide-framework.readthedocs.io/en/0.1/welcome.html#installation>`
-- `Objects and Classes on Lua <https://lide-framework.readthedocs.io/en/0.1/oop-intro.html>`
-- `Lide Classes Reference <https://lide-framework.readthedocs.io/en/0.1/modules/lide.class.html>`
+- `Lide Installation<https://lide-framework.readthedocs.io/en/0.1/welcome.html#installation>`
+- `Objects and Classes on Lua<https://lide-framework.readthedocs.io/en/0.1/oop-intro.html>`
+- `Lide Classes Reference<https://lide-framework.readthedocs.io/en/0.1/modules/lide.class.html>`
